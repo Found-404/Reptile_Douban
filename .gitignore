@@ -1,0 +1,15 @@
+#忽略所有node_modules
+*node_modules
+
+#忽略
+# /bootstrapV4
+
+#忽略npm文件目录下所有文件
+# /code/Node.js/npm
+
+#忽略Express文件目录下所有文件
+# /code/Node.js/Express
+
+#忽略node下的reptile文件
+# /code/Node.js/reptile
+
