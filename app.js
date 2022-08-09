@@ -5,6 +5,7 @@ const fs = require('fs');
 // 导入cheerio工具解析模块
 const cheerio = require('cheerio');
 
+
 let req = https.request('https://movie.douban.com/chart', res => {
     let html = '';
     res.on('data', chunk => {
